@@ -14,11 +14,11 @@
 
       <label for="mobile">Phone Number</label>
       <input type="number" id="mobile" name="mobile" placeholder="Enter your phone number" required>
-      <span id="mobileError" class="error-message"></span>
+      <span id="mobileError"></span>
 
       <label for="email">Email</label>
       <input type="email" id="email" name="email" placeholder="Enter your email" required>
-      <span id="emailError" class="error-message"></span>
+      <span id="emailError"></span>
 
 
       <button type="submit">Submit</button>
